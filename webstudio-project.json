@@ -1,7 +1,7 @@
 {
   "leadId": "8fbc8ef2-2de4-44e2-972e-a3f6045ec02b",
   "businessName": "Apartments Family in Kazan",
-  "lovableProjectId": "51c51304-4c43-4477-ba56-6a3ca0b624ed",
   "publicUrl": "https://webstudio.1true.ru/projects/apartments-family-in-kazan-8fbc8ef2/",
-  "publishedToGitHubAt": "2026-05-11T17:43:22.221Z"
+  "fallbackReason": "Lovable create_project did not return project_id",
+  "publishedToGitHubAt": "2026-05-12T11:20:22.004Z"
 }
